@@ -7,6 +7,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ExemploAcessoInternal\ExemploAcessoInternal.csproj" />
+    <ProjectReference Include="..\ExemploAcessoPrivateProtected\ExemploAcessoPrivateProtected.csproj" />
     <ProjectReference Include="..\ExemploAcessoPrivate\ExemploAcessoPrivate.csproj" />
     <ProjectReference Include="..\ExemploAcessoProtected\ExemploAcessoProtected.csproj" />
     <ProjectReference Include="..\ExemploAcessoPublic\ExemploAcessoPublic.csproj" />

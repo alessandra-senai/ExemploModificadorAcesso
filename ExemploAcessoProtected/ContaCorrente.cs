@@ -36,7 +36,7 @@ namespace ExemploAcessoProtected
             set { saldo = value; }
         }
 
-        public decimal SomarDepositoSaldo(decimal valorDeposito)
+        public decimal SomarDeposito(decimal valorDeposito)
         {
             SomarValores somarValores = new SomarValores();
 
